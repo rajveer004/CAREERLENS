@@ -1,0 +1,10 @@
+{
+  "name": "CareerLens",
+  "description": "AI-powered smart learning and career recommendation platform that builds personalized roadmaps based on your skills and goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Recommendations",
+    "Personalized Learning Paths",
+    "Career Guidance"
+  ]
+}
